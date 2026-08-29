@@ -1,0 +1,239 @@
+Search within code
+ 
+‎index.html‎
++2
+-2
+Lines changed: 2 additions & 2 deletions
+Original file line number	Diff line number	Diff line change
+@@ -1,181 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Trade With Munaaf</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins',sans-serif;
+}
+
+body{
+background:#0f172a;
+display:flex;
+justify-content:center;
+align-items:center;
+min-height:100vh;
+color:#fff;
+}
+
+/* CARD */
+
+.container{
+width:95%;
+max-width:420px;
+padding:30px 25px;
+border-radius:18px;
+
+background:rgba(255,255,255,0.05);
+backdrop-filter:blur(12px);
+
+border:1px solid rgba(255,255,255,0.08);
+
+box-shadow:0 20px 60px rgba(0,0,0,0.6);
+text-align:center;
+}
+
+/* LOGO */
+
+.logo{
+width:80px;
+height:80px;
+border-radius:50%;
+border:2px solid #FFD700;
+margin-bottom:12px;
+}
+
+/* TEXT */
+
+h1{
+font-size:22px;
+color:#FFD700;
+margin-bottom:6px;
+}
+
+h2{
+font-size:15px;
+opacity:0.9;
+margin-bottom:10px;
+}
+
+.sub{
+font-size:13px;
+opacity:0.7;
+margin-bottom:18px;
+}
+
+/* BUTTON */
+
+.btn{
+display:block;
+text-decoration:none;
+background:#22c55e;
+color:#000;
+font-weight:700;
+padding:16px;
+border-radius:10px;
+margin:12px 0;
+transition:0.3s;
+}
+
+.btn:hover{
+background:#16a34a;
+transform:scale(1.03);
+}
+
+/* TRUST BOX */
+
+.trust{
+background:rgba(0,255,150,0.08);
+padding:10px;
+border-radius:10px;
+font-size:13px;
+margin-bottom:15px;
+border:1px solid rgba(0,255,150,0.2);
+}
+
+/* LIST */
+
+.points{
+list-style:none;
+font-size:14px;
+text-align:left;
+margin:15px 0;
+}
+
+.points li{
+margin:8px 0;
+}
+
+/* URGENCY */
+
+.timer{
+margin-top:10px;
+font-size:13px;
+color:#facc15;
+}
+
+/* SOCIAL PROOF */
+
+.proof{
+margin-top:12px;
+font-size:12px;
+opacity:0.7;
+}
+
+/* FOOTER BRAND */
+
+.footer{
+margin-top:20px;
+font-size:12px;
+opacity:0.6;
+}
+
+.footer a{
+color:#38bdf8;
+text-decoration:none;
+font-weight:600;
+}
+
+.footer a:hover{
+text-decoration:underline;
+}
+
+/* RISK */
+
+.risk{
+margin-top:10px;
+font-size:11px;
+opacity:0.5;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<img src="https://i.ibb.co/DPjhtFdq/f1mz-y-J-0r-Ch-Sy-Lx-FAzw-UOZ9-BMLk-Cy44-SNGB3-GJG1-XRRab-Rox4-B-W050-Qd2-MQns-l-ZVInb5-Zxana3s0-Bn-I81fjdhv.jpg" class="logo">
+
+<h1>ROCHIT SINGH</h1>
+<h2>NIFTY • BANKNIFTY • OPTIONS</h2>
+
+<p class="sub">
+Daily Intraday Trading Signals & Analysis
+</p>
+
+<!-- TOP BUTTON -->
+<a href="https://t.me/+0EmL49HnXZ42YWY1" class="btn">
+<a href="https://t.me/+GxgJs4F_Pf4wMmY9" class="btn">
+🚀 Join Free Telegram Channel
+</a>
+
+@@ -192,47 +192,47 @@
+</ul>
+
+<!-- BOTTOM BUTTON -->
+<a href="https://t.me/+0EmL49HnXZ42YWY1" class="btn">
+<a href="https://t.me/+GxgJs4F_Pf4wMmY9" class="btn">
+🚀 Join Free Telegram Channel
+</a>
+
+<div class="timer">
+⏳ Free Access Closing Soon
+</div>
+
+<div class="proof">
+📈 Limited Seats • Active Community
+</div>
+
+<p class="risk">
+⚠ Market investments are subject to risk
+</p>
+
+<!-- CLEAN FOOTER -->
+<div class="footer">
+Powered by 
+<a href="https://t.me/+3XoqJNLxYHswNTc1" target="_blank">
+AdsBuild Agency
+</a>
+</div>
+
+</div>
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1581981890085240');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1581981890085240&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+</body>
+</html>
